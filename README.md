@@ -1,2 +1,4 @@
-# Python-Module-00
-42 new common core intro to python
+# GrowingCode: Python Fundamentals Through Garden Data
+
+## Part of 42 new curriculum; Python module 00
+

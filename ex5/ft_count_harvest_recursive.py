@@ -7,3 +7,5 @@ def ft_count_harvest_recursive(current_day=1, days_max=None):
     else:
         print("Day ", current_day)
         ft_count_harvest_recursive(current_day + 1, days_max=days_max)
+
+# ft_count_harvest_recursive()

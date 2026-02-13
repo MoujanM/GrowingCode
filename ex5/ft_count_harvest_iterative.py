@@ -4,3 +4,5 @@ def ft_count_harvest_iterative():
         print("Day ", days_max)
         days_max += 1
     print("Harvest time!")
+
+# ft_count_harvest_iterative()
